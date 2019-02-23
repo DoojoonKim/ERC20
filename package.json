@@ -1,7 +1,6 @@
 {
   "name": "connortoken",
   "version": "1.0.0",
-  "description": "",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -10,5 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "openzeppelin-solidity": "^2.1.2"
+  },
+  "dependencies": {},
+  "description": ""
 }
